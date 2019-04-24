@@ -1,8 +1,11 @@
 # SmartExpenseSettlement
 
+```
 Application to reduce the number of transactions made between between multiple people.
 Ability to generate Optimized/Reduced number of transactions to balance debt.
+```
 
+```
 0 : Srikanth
 1 : bannu
 2 : Papa
@@ -26,3 +29,4 @@ NOTMALIZED TRANSACTIONS (smart Settlement with reduced transactions)
 0 -> 1 [33]
 0 -> 2 [74]
 1 -> 2 [29]
+```

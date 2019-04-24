@@ -1,0 +1,3 @@
+/Users/shrk/CLionProjects/Splitter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shrk/CLionProjects/Splitter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shrk/CLionProjects/Splitter/cmake-build-debug/CMakeFiles/Splitter.dir

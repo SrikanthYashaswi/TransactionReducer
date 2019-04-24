@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shrk/CLionProjects/Splitter/main.c
+memory.h
+-
+stdio.h
+-
+time.h
+-
+stdlib.h
+-
+stdbool.h
+-
+

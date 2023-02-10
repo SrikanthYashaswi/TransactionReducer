@@ -1,4 +1,4 @@
-# SmartExpenseSettlement
+# TransactionReducer
 
 ```
 Application to reduce the number of transactions made between between multiple people.

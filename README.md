@@ -25,7 +25,7 @@ TRANSACTIONS SUMMARY
 1 -> 2 [43]
 2 -> 0 [14]
 2 -> 1 [14]
-NOTMALIZED TRANSACTIONS (smart Settlement with reduced transactions)
+NOTMALIZED TRANSACTIONS (reduced transactions)
 0 -> 1 [33]
 0 -> 2 [74]
 1 -> 2 [29]
